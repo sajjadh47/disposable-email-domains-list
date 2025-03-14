@@ -1,4 +1,26 @@
-# Disposable-Email-Domains-List
-List of 70k+ Disposable Email Domains You Can Use For Filtering / Restricting User Signup or  In Subscription Form
+# **🛡️ Disposable Email Domains List**  
 
-Anyone is welcome to send any missing domain to add to the list, submit a PR request with your changes, hopefully if valid it will be added.
+A **comprehensive list of 70,000+ disposable email domains** to help you **filter or restrict user signups** and prevent fake email addresses in your **subscription forms, registrations, or any input validation process.**  
+
+## **🚀 Why Use This List?**  
+✅ **Block spam & fake signups** before they happen  
+✅ **Improve data quality** by allowing only real email addresses  
+✅ **Reduce fraudulent activities** in your platform  
+✅ **Easy integration** into any system  
+
+## **📂 Available Formats**  
+- ✅ JSON  
+- ✅ CSV  
+- ✅ TXT  
+- ✅ XML (Beautified)  
+- ✅ YAML  
+- ✅ SQL (GZipped for efficiency)  
+
+## **🔧 How to Use?**  
+Simply download your preferred format and **integrate it into your application** for email validation and filtering.  
+
+### **📝 Contribute**  
+If you find **missing domains** or have **updates**, feel free to **submit a PR** or open an issue! **Community contributions are always welcome.**  
+
+## **⭐ Show Your Support**  
+If this repo helps you, please **star 🌟** it on GitHub! 🚀  

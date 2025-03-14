@@ -12,9 +12,9 @@ A **comprehensive list of 70,000+ disposable email domains** to help you **filte
 - ✅ JSON  
 - ✅ CSV  
 - ✅ TXT  
-- ✅ XML (Beautified)  
+- ✅ XML (Minified & Beautified Both)  
 - ✅ YAML  
-- ✅ SQL (GZipped for efficiency)  
+- ✅ SQL (Additional GZipped file for efficiency)  
 
 ## **🔧 How to Use?**  
 Simply download your preferred format and **integrate it into your application** for email validation and filtering.  

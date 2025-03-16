@@ -1,6 +1,6 @@
 # **🛡️ Disposable Email Domains List**  
 
-A **comprehensive list of 70,000+ disposable email domains** to help you **filter or restrict user signups** and prevent fake email addresses in your **subscription forms, registrations, or any input validation process.**  
+A **comprehensive list of 1,00,000+ disposable email domains** to help you **filter or restrict user signups** and prevent fake email addresses in your **subscription forms, registrations, or any input validation process.**  
 
 ## **🚀 Why Use This List?**  
 ✅ **Block spam & fake signups** before they happen  
